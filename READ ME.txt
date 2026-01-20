@@ -1,0 +1,17 @@
+Description regarding the application 
+
+This app is made for helping business owners to manage and maintain their finances, employees, and their services. It offers three levels of users each with unique features: Administrator, Manager, and Cashier. 
+Administrator: On top of the hierarchy. Can take a general look at the employees, their names as well as their roles; is able to overview the products name, category, purchase and selling price, and quantity; can also view he general finances. The administrator can add new users and also remove them.
+Manager: In charge of the stock. They get notified in case of low stock. Can add and remover certain products. In case of a mistake while registering a product, they can easily modify it. Managing suppliers is also a crucial role of the manager to ensure that goods and services are delivered on time and on good shape. The app also allows the manager to access a general sales statistics.
+Cashier: Has permission to create bills and look up previously created for a customizable period of time.
+Credentials:
+Username: admin, Password: admin123 (Administrator Dashboard)
+Username: manager, Password: manager123 (Manager Dashboard)
+Username: cashier, Password: cashier123 (Cashier Dashboard)
+
+Implementation 
+
+This project follows an MVC architecture, handling different user roles such as: Admin, Manager, and Cashier. The app has a clear separation between models, views, and controllers. It is based on JavaFX libraries for its user interface, providing a graphical and interactive experience for users. However there are some minor inconveniences that the unit testing (using Junit) has brought up.
+
+
+
