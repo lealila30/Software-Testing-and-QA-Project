@@ -1,5 +1,0 @@
-admin,1234,Admin
-cashier,cashier123,Cashier
-admin,admin123,Admin
-cashier,cashier123,Cashier
-cashier,pass,Cashier
